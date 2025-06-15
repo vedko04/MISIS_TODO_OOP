@@ -28,4 +28,5 @@ npm start
 - GET /api/tasks/status/:status - Получить задачи по статусу
 
 
-[После запуска сервера протестировать API можно в Swagger UI:] (http://localhost:3000/docs)
+## После запуска сервера протестировать API можно в Swagger UI: 
+(http://localhost:3000/docs)
